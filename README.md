@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhaval Agrawal</h1>
 <h3 align="center">A passionate backend developer who is looking for new internship opportunities.</h3>
 
-- 🌱 I’m currently developing web applications using **Spring Boot and PostgreSQL**
+- 🌱 Currently working on building microservices using **Golang, Node.js, MySQL at Pratilipi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhav01](https://github.com/dhav01)
 
